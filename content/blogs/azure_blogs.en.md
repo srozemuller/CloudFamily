@@ -220,3 +220,6 @@ chapter: true
 #### {{< open-in-blank "Antti K. Koskela - breaking and (sometimes) fixing everything Azure or Microsoft 365" "https://www.koskila.net" >}}
 ![Antti K. Koskela](/images/blogs/koskilanet.png?width=50pc)
 
+---
+#### {{< open-in-blank "Sander Rozemuller - all about Azure, WVD, Automation, Monitoring and DevOps" "https://rozemuller.com" >}}
+![Sander Rozemuller](/images/blogs/sanderrozemuller.png?width=50pc)
